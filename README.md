@@ -32,9 +32,7 @@ Ensure that at no point do the 3.3V (or 5V) and GND pins or wires touch each oth
 
 ### Final Circuit
 
-The final circuit effectively measures the voltage across the 10k Ohm resistor. It should look like the image below:
-
-![Circuit Diagram]("C:\Users\Rajdeep Shaw\Downloads\bolt_iot_LDR.jpg")
+The final circuit effectively measures the voltage across the 10k Ohm resistor. It should look like the image "bolt_iot_LDR.png"
 
 ## Software Setup
 
