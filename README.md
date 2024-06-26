@@ -4,6 +4,8 @@
 
 This repository provides the code and instructions to set up a Light Intensity Monitoring System using the Bolt IoT module. The system uses an LDR (Light Dependent Resistor) to measure light intensity and visualize the data on the Bolt Cloud.
 
+**This project also demonstrates a comprehensive home automation system using the Bolt IoT platform. The system allows you to control an LED and a fan through a web interface, leveraging the Bolt WiFi module for device management via digital and analog signals. This setup serves as a foundational project that can be expanded into a more complex home automation solution.
+
 ## Hardware Required
 
 - 1 x Bolt IoT Module
